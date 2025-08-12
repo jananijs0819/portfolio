@@ -26,13 +26,13 @@ header nav a:hover {
 
 section {
     padding: 40px;
-    background: white;
+    background: Orange ;
     margin: 20px;
     border-radius: 10px;
 }
 
 h2 {
-    color: #004466;
+    color:yellow ;
 }
 
 ul {
@@ -44,5 +44,5 @@ footer {
     text-align: center;
     padding: 20px;
     background-color: #222;
-    color: #ccc;
+    color: red;
 }
