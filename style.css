@@ -8,14 +8,14 @@ body {
 
 header {
     background-color: #004466;
-    color: white;
+    color: pink;
     padding: 30px;
     text-align: center;
 }
 
 header nav a {
     margin: 0 15px;
-    color: #ddd;
+    color: yellow;
     text-decoration: none;
     font-weight: bold;
 }
